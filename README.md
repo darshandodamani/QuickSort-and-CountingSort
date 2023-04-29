@@ -1,2 +1,2 @@
-# Algorithms-and-Datastructure
+# QuickSort and CountingSort
 Assignments
